@@ -1,4 +1,4 @@
-package javaFundamentosSistemaMercado;
+package fundamentosSistemaMercado;
 import java.util.Scanner;
 
 
