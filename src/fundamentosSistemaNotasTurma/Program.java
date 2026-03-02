@@ -1,4 +1,4 @@
-package sistemaNotasTurma;
+package fundamentosSistemaNotasTurma;
 
 import java.util.Locale;
 import java.util.Scanner;
