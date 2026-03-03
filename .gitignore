@@ -1,8 +1,6 @@
-.metadata/
 bin/
+.settings/
+.metadata/
 *.class
-
-# Eclipse
 .project
 .classpath
-.settings/
